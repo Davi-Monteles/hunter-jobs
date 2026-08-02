@@ -1,0 +1,62 @@
+[
+  {
+    "id": "synthetic-aurora-001",
+    "title": "Desenvolvedor Full-Stack Júnior com IA",
+    "company": "Aurora Labs (empresa fictícia)",
+    "country": "Brazil",
+    "remoteType": "remote",
+    "employmentType": "CLT",
+    "seniority": "junior",
+    "languageRequirement": "technical",
+    "skills": ["Python", "React", "PostgreSQL", "AI"],
+    "description": "Exemplo sintético de vaga remota para aplicações web e integrações de IA.",
+    "postedHoursAgo": 8,
+    "url": "https://example.invalid/jobs/aurora-001",
+    "synthetic": true
+  },
+  {
+    "id": "synthetic-nimbus-002",
+    "title": "Desenvolvedor Python Pleno",
+    "company": "Nimbus Sistemas (empresa fictícia)",
+    "country": "Brazil",
+    "remoteType": "remote",
+    "employmentType": "PJ",
+    "seniority": "mid",
+    "languageRequirement": "intermediate",
+    "skills": ["Python", "PostgreSQL", "Automation"],
+    "description": "Exemplo sintético com senioridade acima da prioridade e automação de processos.",
+    "postedHoursAgo": 30,
+    "url": "https://example.invalid/jobs/nimbus-002",
+    "synthetic": true
+  },
+  {
+    "id": "synthetic-orbit-003",
+    "title": "Senior AI Engineer",
+    "company": "Orbit Works (empresa fictícia)",
+    "country": "Brazil",
+    "remoteType": "remote",
+    "employmentType": "CLT",
+    "seniority": "senior",
+    "languageRequirement": "fluent_required",
+    "skills": ["Python", "LLM", "AI"],
+    "description": "Exemplo sintético criado para demonstrar uma rejeição por senioridade e idioma.",
+    "postedHoursAgo": 4,
+    "url": "https://example.invalid/jobs/orbit-003",
+    "synthetic": true
+  },
+  {
+    "id": "synthetic-cobalt-004",
+    "title": "Desenvolvedor React Júnior Presencial",
+    "company": "Cobalt Tech (empresa fictícia)",
+    "country": "Brazil",
+    "remoteType": "onsite",
+    "employmentType": "CLT",
+    "seniority": "junior",
+    "languageRequirement": "unspecified",
+    "skills": ["React", "JavaScript"],
+    "description": "Exemplo sintético criado para demonstrar uma rejeição por modalidade presencial.",
+    "postedHoursAgo": 18,
+    "url": "https://example.invalid/jobs/cobalt-004",
+    "synthetic": true
+  }
+]

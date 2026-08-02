@@ -1,0 +1,24 @@
+{
+  "name": "hunter-jobs",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Sanitized portfolio edition of a job discovery, scoring and review dashboard",
+  "type": "module",
+  "scripts": {
+    "demo": "tsx src/main.ts demo",
+    "serve": "tsx src/main.ts serve",
+    "test": "node --import tsx --test src/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint .",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "@types/node": "^22.10.0",
+    "eslint": "^9.39.4",
+    "globals": "^16.5.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.0",
+    "typescript-eslint": "^8.50.1"
+  }
+}
