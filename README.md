@@ -1,6 +1,6 @@
 # Hunter Jobs — edição pública sanitizada
 
-Ferramenta para pesquisar, normalizar, pontuar e organizar oportunidades de trabalho antes da revisão humana.
+Ferramenta em Node.js e TypeScript para pesquisar, normalizar, pontuar e organizar oportunidades de trabalho antes da revisão humana.
 
 Este repositório é uma edição de portfólio criada a partir de uma ferramenta interna funcional. Nenhuma vaga real, candidatura, sessão de navegador, currículo ou informação pessoal foi incluída.
 
@@ -18,6 +18,8 @@ O Hunter Jobs organiza o processo em quatro etapas:
 4. dashboard para revisão humana.
 
 A edição pública usa somente exemplos sintéticos. As empresas, vagas, URLs e pontuações de demonstração são fictícias.
+
+Ausência de requisito de idioma não é tratada como prova de que português é suficiente; itens sem evidência ficam para revisão.
 
 ## Arquitetura
 
@@ -151,8 +153,8 @@ Antes de cada publicação, o repositório deve passar por busca de segredos, ca
 
 ## Autor
 
-Davi Monteles — Desenvolvedor Full-Stack Júnior
+Davi Monteles — Desenvolvedor Júnior | IA Aplicada, Automação e Integrações
 
-- Portfólio: https://davimonteles.vercel.app
+- Portfólio: https://davimonteles.vercel.app/pt
 - GitHub: https://github.com/Davi-Monteles
 - LinkedIn: https://www.linkedin.com/in/davi-monteles-9888333a8/
